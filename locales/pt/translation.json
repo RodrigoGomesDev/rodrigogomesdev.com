@@ -1,0 +1,14 @@
+{
+    "welcome": "Olá!",
+    "apresentation": "Sou o ",
+    "description": "This is a React app using i18next",
+    "change_language": "Change language",
+    "footer_text": "This is a footer",
+    "typedStrings": [
+      "Um desenvolvedor Fullstack orientado a resultados",
+      "Crio soluções web inovadoras e escaláveis",
+      "Proponho e desenvolvo aplicativos modernos e sofisticados"
+    ],
+    "letsTalk": "Vamos Conversar"
+  }
+  
