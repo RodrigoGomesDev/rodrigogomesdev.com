@@ -3,7 +3,7 @@ import { GoogleAnalytics } from "@next/third-parties/google";
 import Meta from "@/components/Meta/Meta";
 import "../styles/globals.scss";
 import { GTAG } from "constants";
-import './src/i18n.js';
+import '../src/i18n.js';
 
 const App = ({ Component, pageProps }) => {
   return (
