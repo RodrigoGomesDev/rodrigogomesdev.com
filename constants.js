@@ -1,12 +1,11 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Rodrigo Gomes",
+  title: "Portfolio | Rodrigo Gomes",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
-  twitterHandle: "@shubhporwal24",
+    "Desenvolvedor Fullstack",
+  siteUrl: "https://www.rodrigogomesdev.com",
   keywords: [
-    "Shubh Porwal",
+    "Rodrigo Gomes",
     "Frontend Engineer",
     "React Native Developer",
     "Software Engineer",
@@ -14,9 +13,7 @@ export const METADATA = {
     "Devfolio",
     "Folio",
   ].join(", "),
-  image:
-    "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
-  language: "English",
+  language: "Portuguese",
   themeColor: "#000000",
 };
 
